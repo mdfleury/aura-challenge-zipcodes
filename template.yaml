@@ -1,0 +1,22 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: Search for zip codes
+
+Resources:
+    ZipCodesFunction:
+        Type: AWS::Serverless::Function
+        Properties:
+            CodeUri: .
+            Handler: build/index.handler
+            Runtime: nodejs12.x
+            Events:
+                ZipCodesGet:
+                    Type: HttpApi
+                    Properties:
+                        Path: /zipcodes
+                        Method: GET
+                ZipCodesPost:
+                    Type: HttpApi
+                    Properties:
+                        Path: /zipcodes
+                        Method: POST
