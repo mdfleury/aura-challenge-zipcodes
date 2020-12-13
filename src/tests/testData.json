@@ -1,0 +1,47 @@
+[
+    {
+        "zip": "01001",
+        "type": "STANDARD",
+        "primary_city": "Agawam",
+        "acceptable_cities": null,
+        "unacceptable_cities": null,
+        "state": "MA",
+        "county": "Hampden County",
+        "timezone": "America/New_York",
+        "area_codes": "413",
+        "latitude": "42.06",
+        "longitude": "-72.61",
+        "country": "US",
+        "estimated_population": "14021"
+    },
+    {
+        "zip": "01002",
+        "type": "STANDARD",
+        "primary_city": "Amherst",
+        "acceptable_cities": "Cushman, Pelham",
+        "unacceptable_cities": "South Amherst",
+        "state": "MA",
+        "county": "Hampshire County",
+        "timezone": "America/New_York",
+        "area_codes": "413",
+        "latitude": "42.37",
+        "longitude": "-72.52",
+        "country": "US",
+        "estimated_population": "16532"
+    },
+    {
+        "zip": "01344",
+        "type": "STANDARD",
+        "primary_city": "Erving",
+        "acceptable_cities": null,
+        "unacceptable_cities": "Farley, Stoneville",
+        "state": "MA",
+        "county": "Franklin County",
+        "timezone": "America/New_York",
+        "area_codes": "413,978",
+        "latitude": "42.6",
+        "longitude": "-72.4",
+        "country": "US",
+        "estimated_population": "1247"
+    }
+]

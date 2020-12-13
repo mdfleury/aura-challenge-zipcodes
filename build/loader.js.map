@@ -1,0 +1,1 @@
+{"version":3,"file":"loader.js","sourceRoot":"","sources":["../src/loader.ts"],"names":[],"mappings":";;;AAEA,IAAI,IAAW,CAAC;AAET,KAAK,UAAU,WAAW;IAC7B,IAAI,CAAC,IAAI,EAAE;QACP,IAAI,GAAG,OAAO,CAAC,kBAAkB,CAAC,CAAC;KACtC;IACD,OAAO,IAAI,CAAC;AAChB,CAAC;AALD,kCAKC"}
